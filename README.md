@@ -27,7 +27,7 @@ Here are some of my notable projects:
 
 ## 🌟 GitHub Stats
 
-- **Repositories**: 30
+- **Repositories**: 31
 - **Projects**: 1
 - **Stars**: 15
 - **Followers**: 1
